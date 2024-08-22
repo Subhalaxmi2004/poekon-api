@@ -126,7 +126,9 @@ body {
     .right-content {
         order: 1; /* Display the right content first on mobile */
     }
-
+    h2{
+        font-size: 16px;
+    }
     .left-content {
         order: 2; /* Display the left content below the right content on mobile */
     }
